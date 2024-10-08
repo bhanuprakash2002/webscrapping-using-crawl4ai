@@ -1,0 +1,3 @@
+streamlit
+git+https://github.com/unclecode/crawl4ai.git#egg=crawl4ai
+crawl4ai
